@@ -4,11 +4,10 @@ DriveClonr is a simple Python script whose sole task is to clone (Download EVERY
 It was created as a direct response to my graduation of high school, and the imminent threat of my school Google account being deleted 
 
 ## Why not use Google Takeout?
-Well, that's a great question. For starters, Google Takeout doesn't export shared documents that I don't have access to. Now, as someone who submitted a lot of work on Google Classroom and did a lot of group projects, this was not going to work
-I also felt like expanding my knowledge within the Google API, and this activity was perfect!
+Well, that's a great question. For starters, Google Takeout doesn't export shared documents that I don't have access to. Now, as someone who submitted a lot of work on Google Classroom and did a lot of group projects, this was not going to work. I also felt like expanding my knowledge within the Google API, and this activity was perfect!
 
 ## Features:
-###Auto LongFilePath enabler (Windows only)
+### Auto LongFilePath enabler (Windows only)
 Ahh, Windows. Always making my life difficult. Due to the default file path limit in windows being 256 characters, I implemented a check to enable the hidden long file path support within the registry to make sure the app doesn't fail to download files
 
 ### Resume from last start
