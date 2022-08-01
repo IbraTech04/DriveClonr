@@ -1,0 +1,28 @@
+{
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.autoComplete.extraPaths": [
+        ".microbit-stubs/microbit/lib"
+    ],
+    "python.analysis.extraPaths": [
+        ".microbit-stubs/microbit/lib"
+    ],
+    "files.exclude": {
+        ".microbit-stubs": true,
+        ".vscode": true,
+        ".env": true
+    },
+    "python.envFile": "${workspacefolder}/.env",
+    "python.linting.pylintArgs": [
+        "--disable=W0614",
+        "--disable=C0111",
+        "--disable=W0401",
+        "--disable=C0411",
+        "--disable=C0413",
+        "--disable=E0401",
+        "--disable=C0303",
+        "--disable=C0305"
+    ]
+}
