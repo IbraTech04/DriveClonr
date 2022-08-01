@@ -4,3 +4,4 @@ dist/*
 __pycache__/*
 credentials.json
 Zip Archive/*
+.microbit-stubs/*
