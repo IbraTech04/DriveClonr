@@ -1,7 +1,7 @@
 token.json
-build/*
-dist/*
-__pycache__/*
+build/
+dist/
+__pycache__/
 credentials.json
-Zip Archive/*
-.microbit-stubs/*
+Zip Archive/
+.microbit-stubs/
