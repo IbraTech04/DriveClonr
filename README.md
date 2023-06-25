@@ -3,6 +3,8 @@ DriveClonr is a simple Python script whose sole task is to clone (Download EVERY
 
 It was created as a direct response to my graduation of high school, and the imminent threat of my school Google account being deleted 
 
+# Notice: This application has been superseded by [DriveClonrPro](https://github.com/IbraTech04/DriveClonrPro)
+
 ## Why not use Google Takeout?
 Well, that's a great question. For starters, Google Takeout doesn't export shared documents that I don't have access to. Now, as someone who submitted a lot of work on Google Classroom and did a lot of group projects, this was not going to work. I also felt like expanding my knowledge within the Google API, and this activity was perfect!
 
